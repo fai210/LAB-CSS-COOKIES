@@ -1,4 +1,4 @@
-<img width="1792" alt="Screenshot 2024-03-03 at 1 14 18 PM" src="https://github.com/T-Python-Feb-24/LAB-CSS-COOKIES/assets/91186666/d2386a17-6c2a-43bf-8fed-8f397d3c17fe"># LAB-TEMPLATES-CSS-2
+# LAB-CSS-COOKIES
 
 ## Create a website for a real estate agency (RealEstate) , the website should have a home page that looks like the image below , you should :
 - use templates & templates inheritance
