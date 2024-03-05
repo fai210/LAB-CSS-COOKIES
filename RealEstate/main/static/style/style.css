@@ -16,7 +16,7 @@ body{
     padding: 10px 20px;
     margin-left: 110px;
     margin-right: 110px;
-    /*position: fixed;*/    
+    position: fixed;   
 }
 .main_nav a{
     text-decoration: none;
