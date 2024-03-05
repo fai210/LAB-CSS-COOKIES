@@ -3,6 +3,7 @@
     font-weight: 400px;
     font-family: "Phudu", sans-serif;
     font-style: normal;
+    font-optical-sizing: auto;
 }
 body{
     background-color: rgba(210, 231, 231, 0.918);
@@ -16,7 +17,7 @@ body{
     padding: 10px 20px;
     margin-left: 110px;
     margin-right: 110px;
-    position: fixed;   
+    /*position: fixed; */  
 }
 .main_nav a{
     text-decoration: none;
@@ -55,23 +56,22 @@ body{
 }
 
 .contact{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: left;
+   
+    margin-left: 120px;
     width: 50vw;
-    padding-top: 10vw;
-    padding-right: 22vw;
-    font-size: 30px;
-    column-gap: 2px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    
   }
 p{
     font-family:sans-serif;
     margin-left: 100px;
-    justify-content: left;
+    
 }
 .contact h1{
     font-size: 200px;
+    margin-left: 100px;
+    padding-left: 50px;
   }
    
 .home_button{
@@ -95,7 +95,10 @@ footer{
     background-image: url('/static/images/skyscraper.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 30%;
+   flex-direction: column;
+    padding-top: 20px ;
+    margin: 10px 400px;
+    display: flex;
 }
 
 .A{
